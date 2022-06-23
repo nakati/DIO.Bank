@@ -1,2 +1,2 @@
 # DIO.Bank
-DIO.Bank com conversão em dólar.
+programa DIO.Bank com acréscimo de conversão em dólar.
