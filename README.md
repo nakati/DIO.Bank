@@ -1,2 +1,2 @@
 # DIO.Bank
-programa DIO.Bank com acréscimo de conversão em dólar.
+programa DIO.Bank em C# com acréscimo de conversão em dólar.
